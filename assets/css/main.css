@@ -3966,7 +3966,7 @@ body {
 }
 
 .entry-meta .vcard:before {
-  content: " by ";
+  content: " od ";
 }
 
 .entry-meta .tag {
