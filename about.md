@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: O tématu
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
   feature: abstract-5.jpg
