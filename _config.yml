@@ -22,6 +22,10 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   
 
+ftp_host: 'ftp.webcloud.cz'
+ftp_dir: '/www/'
+ftp_passive: false
+
 # Background image to be tiled on all pages
 background: 
 
