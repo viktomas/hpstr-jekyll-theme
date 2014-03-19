@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Australie - před odletem"
+title: "Austrálie - před odletem"
 modified: 2014-03-17 23:46:12 +0100
 tags: [austrálie, cestování]
 image:
