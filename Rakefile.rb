@@ -38,8 +38,8 @@ task :new_post, :title do |t, args|
     post.puts "  feature: "
     post.puts "  credit: "
     post.puts "  creditlink: "
-    post.puts "comments: "
-    post.puts "share: "
+    post.puts "comments: true"
+    post.puts "share: true"
     post.puts "---"
   end
 end

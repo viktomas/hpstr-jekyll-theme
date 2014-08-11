@@ -10,7 +10,7 @@ share: true
 ---
 ## Příjezd
 Váca se Sethem přilítali v pátek 4.4.2014 v 21:30. Relativně bez problémů jsme se našli na
-terminálu 2. Kluky jsm odvezl ke strejdovi do domu, trochu jsme popili a šli spát kolem půl
+terminálu 2. Kluky jsem odvezl ke strejdovi do domu, trochu jsme popili a šli spát kolem půl
 druhý ráno.
 
 <figure>
@@ -168,7 +168,7 @@ nočních fotek a vyrazili zpátky domů.
 </figure>
 
 Cesta vlakem do Ringwoodu zabrala asi 45 min. Potom jsem si řekl že domů trefim už bez
-navigace. Zakufrovali sme. Navigace mě nás dovedla domů.
+navigace. Zakufrovali sme. Navigace nás dovedla domů.
 
 ## Melbournský Akvárium
 Včera (v úterý) jsme s Vácou a Sethem vyrazili do centra s jasnym cílem. Podívat se na

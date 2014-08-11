@@ -24,7 +24,7 @@ owner:
 
 ftp_host: 'ftp.webcloud.cz'
 ftp_dir: '/www/'
-ftp_passive: false
+ftp_passive: true
 
 # Background image to be tiled on all pages
 background: 
