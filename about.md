@@ -4,7 +4,7 @@ permalink: /about/
 title: Tomáš Vik
 tags: [autor, tomáš vik]
 image:
-  feature: abstract-5.jpg
+  feature: ja-sneznice.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
