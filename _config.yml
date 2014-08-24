@@ -82,3 +82,7 @@ mini_magick:
     source: images/photos/original
     destination: images/photos/medium
     resize: "600x400"
+  medium_ocean_road:
+    source: images/photos/original/great_ocean_road
+    destination: images/photos/medium/great_ocean_road
+    resize: "600x400"
